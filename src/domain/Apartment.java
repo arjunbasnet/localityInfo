@@ -1,8 +1,9 @@
 package domain;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class Apartment {
+public class Apartment implements Serializable{
 	private int apartmentNo;
 	private String apartmentAdds;
 	private int totalRoom;
@@ -51,9 +52,11 @@ public class Apartment {
 
 	@Override
 	public String toString() {
-		return "Apartment [apartmentNo=" + apartmentNo + ", apartmentAdds=" + apartmentAdds + ", totalRoom=" + totalRoom
-				+ ", rooms=" + rooms + "]";
+		return "\n[apartmentNo=" + apartmentNo + ", apartmentAdds=" + apartmentAdds + ", totalRoom=" + totalRoom
+				+ "\n room "+rooms+"]";
 	}
+
+
 	
 	
 }

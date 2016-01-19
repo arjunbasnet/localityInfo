@@ -1,6 +1,8 @@
 package domain;
 
-public class Person {
+import java.io.Serializable;
+
+public class Person implements Serializable{
 	private String firstName;
 	private String lastName;
 	private String adds;
@@ -12,7 +14,9 @@ public class Person {
 		this.adds = adds;
 		this.phone = phone;
 	}
-
+	
+	public Person(){}
+	
 	public String getFirstName() {
 		return firstName;
 	}
@@ -43,6 +47,12 @@ public class Person {
 
 	public void setPhone(long phone) {
 		this.phone = phone;
+	}
+
+	@Override
+	public String toString() {
+		return "Person [firstName=" + firstName + ", lastName=" + lastName + ", adds=" + adds + ", phone=" + phone
+				+ "]";
 	}
 	
 	

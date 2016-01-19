@@ -1,33 +1,40 @@
 package application;
 
+import java.io.Console;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.commons.lang3.text.WordUtils;
 
 import domain.Apartment;
 import domain.Building;
 import domain.Locality;
+import domain.Person;
 import domain.Room;
+import service.FileOperation;
 
 public class Starter {
+	
+	private FileOperation fileService= new FileOperation();
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) throws IOException {
 		
-		//Step 1: print basic info
-		//Step 2: wait for input
-		//Step 3: parse input
-		
-		//Expect for "init" command, if => print error message
-		
-		//If entered init, initialize application by populating domain model 
-		    //Service required => initApplication()
-		
-		
-		
-		//PROJECT => FEATURES => USER STORIES 
 		printInfo();
-		init();
+		System.out.println("Enter Command: ");
+		Scanner scanner = new Scanner(System.in);
+		String command = scanner.nextLine();
+		if("init".equalsIgnoreCase(command)){
+			new Starter().init();
+		}
+		else{ 
+			System.out.println("Please Enter Correct Command!!!\n 1. Enter 'init' for intalization.\n2.Enter 'search' for searching infromation.");
+		}
 		
 	}
 	public static void printInfo(){
@@ -35,7 +42,7 @@ public class Starter {
 				+ "\nFirst type 'init' command to initalize the program, this will populate random data");
 	}
 	
-	public static void init(){
+	public void init() throws IOException {
 		String localityName="Siltakuja 2";
 		int totalBuildings=5;
 		char[] alphabets="ABCDEFGHIJKLMNOPQRSTUVWXYZ".toCharArray(); //for buildings block name
@@ -58,6 +65,8 @@ public class Starter {
 			for(int j=1; j<=apartmentCount;j++)
 			{
 				Apartment apartment=new Apartment();
+				apartment.setApartmentNo(j);
+				//System.out.println("i inside second for loop "+i);
 				apartment.setApartmentAdds(localityName + " "+ alphabets[i]+" "+ j);
 				int roomCount=ThreadLocalRandom.current().nextInt(1, 3+1); //generates random room number
 				apartment.setTotalRoom(roomCount);
@@ -66,17 +75,37 @@ public class Starter {
 				{
 					
 					Room room=new Room();
+					Person person=new Person();
+					
+					int FnameLength=ThreadLocalRandom.current().nextInt(5, 13);
+					int LnameLength=ThreadLocalRandom.current().nextInt(5, 13);
+					String firstName=WordUtils.capitalizeFully(RandomStringUtils.randomAlphabetic(FnameLength));
+					String lastName=WordUtils.capitalizeFully(RandomStringUtils.randomAlphabetic(LnameLength));
+					long phoneNumber = (long) Math.floor(Math.random() * 9000000000L) + 1000000000L;
+					String adds=localityName + " "+ alphabets[i]+" "+ j;
+					
+					person.setFirstName(firstName);
+					person.setLastName(lastName);
+					person.setPhone(phoneNumber);
+					person.setAdds(adds);
+					
 					room.setRoomNo(k);
+					room.setPerson(person);
 					rooms.add(room);
 				}
 				apartment.setRooms(rooms);
+				//System.out.print(apartment.toString());
+				rooms=new ArrayList<Room>();
 				apartments.add(apartment);
 				
 			}
 			building.setApartments(apartments);
+			//System.out.print(building.toString());
+			apartments=new ArrayList<Apartment>();
 			buildings.add(building);
 		}
 		locality.setBuildings(buildings);
-		System.out.print(locality.toString());
+		fileService.saveData(locality);
+		//System.out.print(locality.toString());
 	}
 }

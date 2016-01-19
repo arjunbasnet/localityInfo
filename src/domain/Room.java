@@ -1,6 +1,8 @@
 package domain;
 
-public class Room {
+import java.io.Serializable;
+
+public class Room implements Serializable{
 	private int roomNo;
 	private Person person;
 	
@@ -30,5 +32,7 @@ public class Room {
 	public String toString() {
 		return "Room [roomNo=" + roomNo + ", person=" + person + "]";
 	}
+
+	
 	
 }

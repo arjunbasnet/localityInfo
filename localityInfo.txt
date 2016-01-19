@@ -1,0 +1,287 @@
+Locality [address=Siltakuja 2, id=1
+[
+[block=A, totalApartment=23
+ apartments=[
+[apartmentNo=1, apartmentAdds=Siltakuja 2 A 1, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Boxgfhvmprt, lastName=Dydpmuykma, adds=Siltakuja 2 A 1, phone=5711990395]]]], 
+[apartmentNo=2, apartmentAdds=Siltakuja 2 A 2, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Cqrdtvm, lastName=Sltpheyyoupf, adds=Siltakuja 2 A 2, phone=1138480717]], Room [roomNo=2, person=Person [firstName=Iiqqyxl, lastName=Tbnsi, adds=Siltakuja 2 A 2, phone=6245236260]], Room [roomNo=3, person=Person [firstName=Rsnzekg, lastName=Epqcmi, adds=Siltakuja 2 A 2, phone=3843929559]]]], 
+[apartmentNo=3, apartmentAdds=Siltakuja 2 A 3, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Gfmypnqr, lastName=Ecduxwg, adds=Siltakuja 2 A 3, phone=3162875188]], Room [roomNo=2, person=Person [firstName=Hiykqjhq, lastName=Hhfwjkccva, adds=Siltakuja 2 A 3, phone=2078412140]], Room [roomNo=3, person=Person [firstName=Hpactkxoxyx, lastName=Qvixyghtn, adds=Siltakuja 2 A 3, phone=2239893316]]]], 
+[apartmentNo=4, apartmentAdds=Siltakuja 2 A 4, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Sxilbgqw, lastName=Citfcbmt, adds=Siltakuja 2 A 4, phone=6573784794]], Room [roomNo=2, person=Person [firstName=Yjntsk, lastName=Kmjqguqd, adds=Siltakuja 2 A 4, phone=8407905921]]]], 
+[apartmentNo=5, apartmentAdds=Siltakuja 2 A 5, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Strujhilm, lastName=Mjxowitwk, adds=Siltakuja 2 A 5, phone=2524417075]], Room [roomNo=2, person=Person [firstName=Poiociffpu, lastName=Lqsozamphpc, adds=Siltakuja 2 A 5, phone=2889845741]]]], 
+[apartmentNo=6, apartmentAdds=Siltakuja 2 A 6, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Sypsunmfr, lastName=Wacplzoxiww, adds=Siltakuja 2 A 6, phone=1660594292]]]], 
+[apartmentNo=7, apartmentAdds=Siltakuja 2 A 7, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Gyaymzsy, lastName=Dcaxygv, adds=Siltakuja 2 A 7, phone=3556515589]], Room [roomNo=2, person=Person [firstName=Nkpzbk, lastName=Havetiivby, adds=Siltakuja 2 A 7, phone=2188312416]], Room [roomNo=3, person=Person [firstName=Dswzhdm, lastName=Jszuawwwona, adds=Siltakuja 2 A 7, phone=6564197654]]]], 
+[apartmentNo=8, apartmentAdds=Siltakuja 2 A 8, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Jykngjavxuno, lastName=Zoqyjutbdagx, adds=Siltakuja 2 A 8, phone=5834366761]], Room [roomNo=2, person=Person [firstName=Onmeqwxqne, lastName=Zakrbvrf, adds=Siltakuja 2 A 8, phone=5445485248]]]], 
+[apartmentNo=9, apartmentAdds=Siltakuja 2 A 9, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Yisljpwltjlo, lastName=Sdwxiemaonb, adds=Siltakuja 2 A 9, phone=4327042226]], Room [roomNo=2, person=Person [firstName=Zmxjfjl, lastName=Ttaabvwhp, adds=Siltakuja 2 A 9, phone=2417065770]], Room [roomNo=3, person=Person [firstName=Aoenl, lastName=Mfvxldeivsfb, adds=Siltakuja 2 A 9, phone=8140909033]]]], 
+[apartmentNo=10, apartmentAdds=Siltakuja 2 A 10, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Gezjjzvcj, lastName=Hjarxjoc, adds=Siltakuja 2 A 10, phone=1379911522]], Room [roomNo=2, person=Person [firstName=Aabfmnxvsx, lastName=Diadtyypgmp, adds=Siltakuja 2 A 10, phone=1107405679]], Room [roomNo=3, person=Person [firstName=Fhjjia, lastName=Yvnfkkz, adds=Siltakuja 2 A 10, phone=6576481346]]]], 
+[apartmentNo=11, apartmentAdds=Siltakuja 2 A 11, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Tcckdxcq, lastName=Duebongtfeh, adds=Siltakuja 2 A 11, phone=7049795889]], Room [roomNo=2, person=Person [firstName=Sqkaspqkjq, lastName=Rveknhg, adds=Siltakuja 2 A 11, phone=1058927467]]]], 
+[apartmentNo=12, apartmentAdds=Siltakuja 2 A 12, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Kvgmlqcrgbx, lastName=Ocwpsmczk, adds=Siltakuja 2 A 12, phone=9341186649]], Room [roomNo=2, person=Person [firstName=Rmonjgaa, lastName=Gewqnxn, adds=Siltakuja 2 A 12, phone=1450432272]]]], 
+[apartmentNo=13, apartmentAdds=Siltakuja 2 A 13, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Fbgxlfydhp, lastName=Henfgdxfaanu, adds=Siltakuja 2 A 13, phone=1747573897]]]], 
+[apartmentNo=14, apartmentAdds=Siltakuja 2 A 14, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Ldttnwix, lastName=Zozqr, adds=Siltakuja 2 A 14, phone=5152762238]], Room [roomNo=2, person=Person [firstName=Tumknm, lastName=Dmsoon, adds=Siltakuja 2 A 14, phone=3035049295]]]], 
+[apartmentNo=15, apartmentAdds=Siltakuja 2 A 15, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Uyrxpy, lastName=Yqxfwilgp, adds=Siltakuja 2 A 15, phone=7386652822]], Room [roomNo=2, person=Person [firstName=Npjnijrjek, lastName=Pppzkqhgkjia, adds=Siltakuja 2 A 15, phone=5162619283]], Room [roomNo=3, person=Person [firstName=Krcdm, lastName=Aazvktcowkl, adds=Siltakuja 2 A 15, phone=9733071996]]]], 
+[apartmentNo=16, apartmentAdds=Siltakuja 2 A 16, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Goinbp, lastName=Grroanntiyyg, adds=Siltakuja 2 A 16, phone=3911481133]], Room [roomNo=2, person=Person [firstName=Sjdjbbedm, lastName=Khimsxqi, adds=Siltakuja 2 A 16, phone=1173737362]]]], 
+[apartmentNo=17, apartmentAdds=Siltakuja 2 A 17, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Xypxlz, lastName=Sgtxfg, adds=Siltakuja 2 A 17, phone=3120601390]]]], 
+[apartmentNo=18, apartmentAdds=Siltakuja 2 A 18, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Yephgibiko, lastName=Gjocwkrjzieh, adds=Siltakuja 2 A 18, phone=7775080752]], Room [roomNo=2, person=Person [firstName=Uawsybtxa, lastName=Ptwlfnn, adds=Siltakuja 2 A 18, phone=9300227786]]]], 
+[apartmentNo=19, apartmentAdds=Siltakuja 2 A 19, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Odsltlfoihg, lastName=Axilmnk, adds=Siltakuja 2 A 19, phone=1903384027]], Room [roomNo=2, person=Person [firstName=Fxtagbz, lastName=Cbjdip, adds=Siltakuja 2 A 19, phone=7913303051]], Room [roomNo=3, person=Person [firstName=Vdrwtvnz, lastName=Tuibddkfvwxc, adds=Siltakuja 2 A 19, phone=7247916944]]]], 
+[apartmentNo=20, apartmentAdds=Siltakuja 2 A 20, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Zelpb, lastName=Wzdvtqblumju, adds=Siltakuja 2 A 20, phone=9574080137]], Room [roomNo=2, person=Person [firstName=Qhpnudrggia, lastName=Oohzzoi, adds=Siltakuja 2 A 20, phone=4527053074]], Room [roomNo=3, person=Person [firstName=Msgrsohysfol, lastName=Owmmyhxih, adds=Siltakuja 2 A 20, phone=9478577161]]]], 
+[apartmentNo=21, apartmentAdds=Siltakuja 2 A 21, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Mbqvibfnbax, lastName=Zmdbsum, adds=Siltakuja 2 A 21, phone=8888637232]], Room [roomNo=2, person=Person [firstName=Aplatk, lastName=Dduxpeuwi, adds=Siltakuja 2 A 21, phone=4608531851]], Room [roomNo=3, person=Person [firstName=Irlzkvj, lastName=Weakdxp, adds=Siltakuja 2 A 21, phone=3035046119]]]], 
+[apartmentNo=22, apartmentAdds=Siltakuja 2 A 22, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Vuwlldysg, lastName=Dkvsl, adds=Siltakuja 2 A 22, phone=9335516556]], Room [roomNo=2, person=Person [firstName=Zkdkzvcml, lastName=Sudlnenii, adds=Siltakuja 2 A 22, phone=8615776592]]]], 
+[apartmentNo=23, apartmentAdds=Siltakuja 2 A 23, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Jzpovlckslu, lastName=Xoliqpnyw, adds=Siltakuja 2 A 23, phone=2581749707]], Room [roomNo=2, person=Person [firstName=Pusvmffzj, lastName=Sdcqj, adds=Siltakuja 2 A 23, phone=2561994079]]]]]]
+, 
+[block=B, totalApartment=21
+ apartments=[
+[apartmentNo=1, apartmentAdds=Siltakuja 2 B 1, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Exvdhewhqo, lastName=Odbglvgbohj, adds=Siltakuja 2 B 1, phone=9396447520]], Room [roomNo=2, person=Person [firstName=Cdhmu, lastName=Gwxdp, adds=Siltakuja 2 B 1, phone=4679869632]], Room [roomNo=3, person=Person [firstName=Lzkyblqnbkr, lastName=Orbkqkley, adds=Siltakuja 2 B 1, phone=6799453113]]]], 
+[apartmentNo=2, apartmentAdds=Siltakuja 2 B 2, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Wsvwhm, lastName=Zqpzbcyjyw, adds=Siltakuja 2 B 2, phone=4879965008]]]], 
+[apartmentNo=3, apartmentAdds=Siltakuja 2 B 3, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Reemq, lastName=Owciwg, adds=Siltakuja 2 B 3, phone=7786148675]]]], 
+[apartmentNo=4, apartmentAdds=Siltakuja 2 B 4, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Snenwae, lastName=Mfmnitjdok, adds=Siltakuja 2 B 4, phone=4071234642]]]], 
+[apartmentNo=5, apartmentAdds=Siltakuja 2 B 5, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Jfctsnxbc, lastName=Pmfdpqzovr, adds=Siltakuja 2 B 5, phone=3128720502]], Room [roomNo=2, person=Person [firstName=Vecswvysyxp, lastName=Lzfeqs, adds=Siltakuja 2 B 5, phone=5678879643]], Room [roomNo=3, person=Person [firstName=Fcuazniu, lastName=Snzncmrhutus, adds=Siltakuja 2 B 5, phone=6838738439]]]], 
+[apartmentNo=6, apartmentAdds=Siltakuja 2 B 6, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Gdwxinukelyy, lastName=Iikydouvaic, adds=Siltakuja 2 B 6, phone=1409418668]], Room [roomNo=2, person=Person [firstName=Gkepdo, lastName=Dbznjwhxzqc, adds=Siltakuja 2 B 6, phone=6055400011]]]], 
+[apartmentNo=7, apartmentAdds=Siltakuja 2 B 7, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Qfkjo, lastName=Nfvqnjy, adds=Siltakuja 2 B 7, phone=1753652094]]]], 
+[apartmentNo=8, apartmentAdds=Siltakuja 2 B 8, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Cekct, lastName=Jukufozozg, adds=Siltakuja 2 B 8, phone=7513957005]], Room [roomNo=2, person=Person [firstName=Ufvvpua, lastName=Blkglmkq, adds=Siltakuja 2 B 8, phone=8524048725]]]], 
+[apartmentNo=9, apartmentAdds=Siltakuja 2 B 9, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Xzrkdasmz, lastName=Ajzmvq, adds=Siltakuja 2 B 9, phone=8341717597]], Room [roomNo=2, person=Person [firstName=Khtsvemdm, lastName=Qclholl, adds=Siltakuja 2 B 9, phone=6718446132]], Room [roomNo=3, person=Person [firstName=Omcytesffet, lastName=Evupeyf, adds=Siltakuja 2 B 9, phone=3577114149]]]], 
+[apartmentNo=10, apartmentAdds=Siltakuja 2 B 10, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Wcjsmyrxqvoe, lastName=Hcxsahuqrsch, adds=Siltakuja 2 B 10, phone=3203440873]], Room [roomNo=2, person=Person [firstName=Itmojoyndwm, lastName=Nbmuezbhh, adds=Siltakuja 2 B 10, phone=8753841265]], Room [roomNo=3, person=Person [firstName=Jhbyu, lastName=Ecftgi, adds=Siltakuja 2 B 10, phone=7150665087]]]], 
+[apartmentNo=11, apartmentAdds=Siltakuja 2 B 11, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Uruzg, lastName=Uvwkfmuhghby, adds=Siltakuja 2 B 11, phone=8020760339]], Room [roomNo=2, person=Person [firstName=Liodyw, lastName=Xjbmzngrzq, adds=Siltakuja 2 B 11, phone=5135163167]], Room [roomNo=3, person=Person [firstName=Kwejefuywr, lastName=Hvrihdmh, adds=Siltakuja 2 B 11, phone=3353569417]]]], 
+[apartmentNo=12, apartmentAdds=Siltakuja 2 B 12, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Kpdacf, lastName=Arwjci, adds=Siltakuja 2 B 12, phone=8130771452]], Room [roomNo=2, person=Person [firstName=Awlbqfcmdux, lastName=Sawbvwyruycw, adds=Siltakuja 2 B 12, phone=8371178113]], Room [roomNo=3, person=Person [firstName=Ynimkocr, lastName=Cnsaipz, adds=Siltakuja 2 B 12, phone=7891859858]]]], 
+[apartmentNo=13, apartmentAdds=Siltakuja 2 B 13, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Dqlvqdsj, lastName=Riitmtamesl, adds=Siltakuja 2 B 13, phone=7403982684]], Room [roomNo=2, person=Person [firstName=Ruaacoxoksio, lastName=Alfxohskyk, adds=Siltakuja 2 B 13, phone=7988757303]]]], 
+[apartmentNo=14, apartmentAdds=Siltakuja 2 B 14, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Hkxsuxwenrc, lastName=Wlxkhf, adds=Siltakuja 2 B 14, phone=5719077967]]]], 
+[apartmentNo=15, apartmentAdds=Siltakuja 2 B 15, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Iqwpgkhkamw, lastName=Jryrnfjlk, adds=Siltakuja 2 B 15, phone=6925985558]], Room [roomNo=2, person=Person [firstName=Cmeqv, lastName=Ipvohjopatl, adds=Siltakuja 2 B 15, phone=8025803804]]]], 
+[apartmentNo=16, apartmentAdds=Siltakuja 2 B 16, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Xicszhrqtd, lastName=Pwevybztvfa, adds=Siltakuja 2 B 16, phone=4694063602]], Room [roomNo=2, person=Person [firstName=Xuepxuihfk, lastName=Catxawejs, adds=Siltakuja 2 B 16, phone=8541427245]]]], 
+[apartmentNo=17, apartmentAdds=Siltakuja 2 B 17, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Xixseqrrv, lastName=Sybejkh, adds=Siltakuja 2 B 17, phone=1928708088]], Room [roomNo=2, person=Person [firstName=Jmiekhxdua, lastName=Hxmmpuvngeh, adds=Siltakuja 2 B 17, phone=6359383927]], Room [roomNo=3, person=Person [firstName=Hilvw, lastName=Fihrbjfdptwn, adds=Siltakuja 2 B 17, phone=7732971717]]]], 
+[apartmentNo=18, apartmentAdds=Siltakuja 2 B 18, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Zigsdudg, lastName=Tcnvh, adds=Siltakuja 2 B 18, phone=7640122982]], Room [roomNo=2, person=Person [firstName=Ncdmzxnqt, lastName=Wauqruxfa, adds=Siltakuja 2 B 18, phone=3581084183]]]], 
+[apartmentNo=19, apartmentAdds=Siltakuja 2 B 19, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Tikugpehggz, lastName=Muvgtwwa, adds=Siltakuja 2 B 19, phone=2136637769]]]], 
+[apartmentNo=20, apartmentAdds=Siltakuja 2 B 20, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Fdlkdhb, lastName=Ztxyzutvijr, adds=Siltakuja 2 B 20, phone=4505971993]], Room [roomNo=2, person=Person [firstName=Zhwrzgtj, lastName=Asxiiurotsiv, adds=Siltakuja 2 B 20, phone=3813262489]]]], 
+[apartmentNo=21, apartmentAdds=Siltakuja 2 B 21, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Kbjyr, lastName=Zmlfxybnzpf, adds=Siltakuja 2 B 21, phone=1679718180]]]]]]
+, 
+[block=C, totalApartment=29
+ apartments=[
+[apartmentNo=1, apartmentAdds=Siltakuja 2 C 1, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Erdiecg, lastName=Ypvwu, adds=Siltakuja 2 C 1, phone=1247922533]], Room [roomNo=2, person=Person [firstName=Pooddt, lastName=Lsxhcnfh, adds=Siltakuja 2 C 1, phone=8247332600]], Room [roomNo=3, person=Person [firstName=Nyhnyk, lastName=Pvmiad, adds=Siltakuja 2 C 1, phone=5196056286]]]], 
+[apartmentNo=2, apartmentAdds=Siltakuja 2 C 2, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Nwzqvrm, lastName=Olgovrsho, adds=Siltakuja 2 C 2, phone=3854461949]], Room [roomNo=2, person=Person [firstName=Oyzsa, lastName=Ltcncxqebm, adds=Siltakuja 2 C 2, phone=6100765261]]]], 
+[apartmentNo=3, apartmentAdds=Siltakuja 2 C 3, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Mnvzpnnsdj, lastName=Mxilogqcde, adds=Siltakuja 2 C 3, phone=2220076711]]]], 
+[apartmentNo=4, apartmentAdds=Siltakuja 2 C 4, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Sslqliugb, lastName=Rtguqagij, adds=Siltakuja 2 C 4, phone=6560961189]], Room [roomNo=2, person=Person [firstName=Ftrkigdp, lastName=Fxvrsg, adds=Siltakuja 2 C 4, phone=1612318362]], Room [roomNo=3, person=Person [firstName=Dwchbbpy, lastName=Grdoytipvgkf, adds=Siltakuja 2 C 4, phone=1310507752]]]], 
+[apartmentNo=5, apartmentAdds=Siltakuja 2 C 5, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Oiljs, lastName=Riokawwnle, adds=Siltakuja 2 C 5, phone=7471796186]]]], 
+[apartmentNo=6, apartmentAdds=Siltakuja 2 C 6, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Jhdszufslg, lastName=Hakxjy, adds=Siltakuja 2 C 6, phone=2250406807]]]], 
+[apartmentNo=7, apartmentAdds=Siltakuja 2 C 7, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Ldqhxpvroed, lastName=Oztydhtpxt, adds=Siltakuja 2 C 7, phone=8239562181]], Room [roomNo=2, person=Person [firstName=Vdkuhsttzrm, lastName=Kodrz, adds=Siltakuja 2 C 7, phone=2537352124]]]], 
+[apartmentNo=8, apartmentAdds=Siltakuja 2 C 8, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Kbiwigr, lastName=Iufqkm, adds=Siltakuja 2 C 8, phone=9750212305]]]], 
+[apartmentNo=9, apartmentAdds=Siltakuja 2 C 9, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Dnjgjzj, lastName=Xijpwgbqtan, adds=Siltakuja 2 C 9, phone=4830522206]]]], 
+[apartmentNo=10, apartmentAdds=Siltakuja 2 C 10, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Fbzprkszrzqe, lastName=Cljskobmag, adds=Siltakuja 2 C 10, phone=7173189708]]]], 
+[apartmentNo=11, apartmentAdds=Siltakuja 2 C 11, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Ejhnn, lastName=Sbijoooymvjg, adds=Siltakuja 2 C 11, phone=6089956515]]]], 
+[apartmentNo=12, apartmentAdds=Siltakuja 2 C 12, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Gyytntzqsp, lastName=Fauvep, adds=Siltakuja 2 C 12, phone=2272112466]], Room [roomNo=2, person=Person [firstName=Zlsmzecx, lastName=Jegsevdlgtxa, adds=Siltakuja 2 C 12, phone=5000564282]]]], 
+[apartmentNo=13, apartmentAdds=Siltakuja 2 C 13, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Nuckmdu, lastName=Cqzuoiwjnvxz, adds=Siltakuja 2 C 13, phone=9813166396]], Room [roomNo=2, person=Person [firstName=Yrahdpwzjtn, lastName=Zjgmoqdctt, adds=Siltakuja 2 C 13, phone=7252641279]], Room [roomNo=3, person=Person [firstName=Qcrno, lastName=Nrzgzwlbcot, adds=Siltakuja 2 C 13, phone=8915281750]]]], 
+[apartmentNo=14, apartmentAdds=Siltakuja 2 C 14, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Vlewbxsfivta, lastName=Qmqzvlesd, adds=Siltakuja 2 C 14, phone=3770283399]], Room [roomNo=2, person=Person [firstName=Nmmevzfku, lastName=Zwfohcfghyko, adds=Siltakuja 2 C 14, phone=8388539570]], Room [roomNo=3, person=Person [firstName=Qpsiy, lastName=Hpeoplhrcxi, adds=Siltakuja 2 C 14, phone=3161431452]]]], 
+[apartmentNo=15, apartmentAdds=Siltakuja 2 C 15, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Bmlawwkfusvc, lastName=Bjdozu, adds=Siltakuja 2 C 15, phone=6060255716]], Room [roomNo=2, person=Person [firstName=Gqfrftxi, lastName=Jvsuwp, adds=Siltakuja 2 C 15, phone=9426251927]], Room [roomNo=3, person=Person [firstName=Ogbcxl, lastName=Bgtdlopsilru, adds=Siltakuja 2 C 15, phone=6413333492]]]], 
+[apartmentNo=16, apartmentAdds=Siltakuja 2 C 16, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Rgxqo, lastName=Sxyytqzcs, adds=Siltakuja 2 C 16, phone=6453577114]]]], 
+[apartmentNo=17, apartmentAdds=Siltakuja 2 C 17, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Vssxgck, lastName=Vnxxncrhorgq, adds=Siltakuja 2 C 17, phone=7747218969]], Room [roomNo=2, person=Person [firstName=Ysdvllmpdnak, lastName=Whltwhphhj, adds=Siltakuja 2 C 17, phone=2348224627]], Room [roomNo=3, person=Person [firstName=Ipqprqerf, lastName=Jkdtronnkw, adds=Siltakuja 2 C 17, phone=4472249970]]]], 
+[apartmentNo=18, apartmentAdds=Siltakuja 2 C 18, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Enajcxuhxrxv, lastName=Wmxsgjy, adds=Siltakuja 2 C 18, phone=1845852163]], Room [roomNo=2, person=Person [firstName=Cxdbnus, lastName=Xfyhnezjsn, adds=Siltakuja 2 C 18, phone=3033081169]], Room [roomNo=3, person=Person [firstName=Xptjfnckihy, lastName=Qbgvadmyojb, adds=Siltakuja 2 C 18, phone=6307882746]]]], 
+[apartmentNo=19, apartmentAdds=Siltakuja 2 C 19, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Yivjyylkz, lastName=Vkymwippbau, adds=Siltakuja 2 C 19, phone=9561544527]], Room [roomNo=2, person=Person [firstName=Zufgtuml, lastName=Kwxaioxoujkh, adds=Siltakuja 2 C 19, phone=1258854073]]]], 
+[apartmentNo=20, apartmentAdds=Siltakuja 2 C 20, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Auyalgkbgdz, lastName=Pgytuktks, adds=Siltakuja 2 C 20, phone=6434752697]]]], 
+[apartmentNo=21, apartmentAdds=Siltakuja 2 C 21, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Bynyhxvdtu, lastName=Qqagd, adds=Siltakuja 2 C 21, phone=7484856474]]]], 
+[apartmentNo=22, apartmentAdds=Siltakuja 2 C 22, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Swsrvckyqkr, lastName=Epobbsztzp, adds=Siltakuja 2 C 22, phone=2977054646]], Room [roomNo=2, person=Person [firstName=Uuflbll, lastName=Bqhyhtaa, adds=Siltakuja 2 C 22, phone=3097682138]], Room [roomNo=3, person=Person [firstName=Ructwoctz, lastName=Dgqejswq, adds=Siltakuja 2 C 22, phone=6126861614]]]], 
+[apartmentNo=23, apartmentAdds=Siltakuja 2 C 23, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Swofdhel, lastName=Qxbvylw, adds=Siltakuja 2 C 23, phone=8068709131]], Room [roomNo=2, person=Person [firstName=Wosfummubdxk, lastName=Iuzfk, adds=Siltakuja 2 C 23, phone=1789202197]]]], 
+[apartmentNo=24, apartmentAdds=Siltakuja 2 C 24, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Hmwgsxenked, lastName=Espkrrwntfjo, adds=Siltakuja 2 C 24, phone=6823794718]]]], 
+[apartmentNo=25, apartmentAdds=Siltakuja 2 C 25, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Xzsxkranbt, lastName=Gkjdupqlymu, adds=Siltakuja 2 C 25, phone=5125630787]], Room [roomNo=2, person=Person [firstName=Ixfnxlzms, lastName=Kkplzxke, adds=Siltakuja 2 C 25, phone=9980604609]], Room [roomNo=3, person=Person [firstName=Fmicytrahx, lastName=Fmbgfvjuxn, adds=Siltakuja 2 C 25, phone=9273901953]]]], 
+[apartmentNo=26, apartmentAdds=Siltakuja 2 C 26, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Ionompe, lastName=Ywibrlovx, adds=Siltakuja 2 C 26, phone=6008500980]], Room [roomNo=2, person=Person [firstName=Emqvnbkk, lastName=Ihqorudpque, adds=Siltakuja 2 C 26, phone=1035363400]]]], 
+[apartmentNo=27, apartmentAdds=Siltakuja 2 C 27, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Kasmctrj, lastName=Bgixnr, adds=Siltakuja 2 C 27, phone=4944668902]], Room [roomNo=2, person=Person [firstName=Yydayux, lastName=Tzhrgf, adds=Siltakuja 2 C 27, phone=3278647252]]]], 
+[apartmentNo=28, apartmentAdds=Siltakuja 2 C 28, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Iemwlbvn, lastName=Jtqzhynrkw, adds=Siltakuja 2 C 28, phone=8645466361]], Room [roomNo=2, person=Person [firstName=Eqwju, lastName=Ndwgqrieky, adds=Siltakuja 2 C 28, phone=8059959968]]]], 
+[apartmentNo=29, apartmentAdds=Siltakuja 2 C 29, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Ubchk, lastName=Ayspbelhkjyg, adds=Siltakuja 2 C 29, phone=1866595913]], Room [roomNo=2, person=Person [firstName=Slahsg, lastName=Jjynlbd, adds=Siltakuja 2 C 29, phone=6394661813]], Room [roomNo=3, person=Person [firstName=Efuury, lastName=Jfbiiksyhu, adds=Siltakuja 2 C 29, phone=9617765733]]]]]]
+, 
+[block=D, totalApartment=19
+ apartments=[
+[apartmentNo=1, apartmentAdds=Siltakuja 2 D 1, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Yfnhvzqildyd, lastName=Jahmq, adds=Siltakuja 2 D 1, phone=1889114634]], Room [roomNo=2, person=Person [firstName=Qewjkte, lastName=Jaqqy, adds=Siltakuja 2 D 1, phone=3235836587]]]], 
+[apartmentNo=2, apartmentAdds=Siltakuja 2 D 2, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Ugycf, lastName=Uapdilzkift, adds=Siltakuja 2 D 2, phone=5978842346]], Room [roomNo=2, person=Person [firstName=Wjzplzm, lastName=Aalpwniaf, adds=Siltakuja 2 D 2, phone=6864439323]], Room [roomNo=3, person=Person [firstName=Zrozknn, lastName=Bpcwreazaslh, adds=Siltakuja 2 D 2, phone=7757318739]]]], 
+[apartmentNo=3, apartmentAdds=Siltakuja 2 D 3, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Aeztrl, lastName=Rcctnp, adds=Siltakuja 2 D 3, phone=9057749666]], Room [roomNo=2, person=Person [firstName=Sqltouwcm, lastName=Mpyamdrvtftx, adds=Siltakuja 2 D 3, phone=8523328895]], Room [roomNo=3, person=Person [firstName=Jthdpiotnfsq, lastName=Zfzgbf, adds=Siltakuja 2 D 3, phone=6972167964]]]], 
+[apartmentNo=4, apartmentAdds=Siltakuja 2 D 4, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Ltulpqusppv, lastName=Kbwhqmbovfgg, adds=Siltakuja 2 D 4, phone=5443524168]]]], 
+[apartmentNo=5, apartmentAdds=Siltakuja 2 D 5, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Fxcuwg, lastName=Mjogavpjg, adds=Siltakuja 2 D 5, phone=3643382601]], Room [roomNo=2, person=Person [firstName=Dlqhtdbhf, lastName=Unonsgu, adds=Siltakuja 2 D 5, phone=3605885921]]]], 
+[apartmentNo=6, apartmentAdds=Siltakuja 2 D 6, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Bfhaa, lastName=Cptlkjito, adds=Siltakuja 2 D 6, phone=2629594904]], Room [roomNo=2, person=Person [firstName=Ffnccxqkn, lastName=Rucbumkj, adds=Siltakuja 2 D 6, phone=7230295536]]]], 
+[apartmentNo=7, apartmentAdds=Siltakuja 2 D 7, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Yccxkb, lastName=Tottt, adds=Siltakuja 2 D 7, phone=7437084554]], Room [roomNo=2, person=Person [firstName=Nipst, lastName=Rjxjlgoyxptk, adds=Siltakuja 2 D 7, phone=3670882157]]]], 
+[apartmentNo=8, apartmentAdds=Siltakuja 2 D 8, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Rulucoy, lastName=Fhqvd, adds=Siltakuja 2 D 8, phone=6624994345]], Room [roomNo=2, person=Person [firstName=Pbehbqvsj, lastName=Qpuvxnwyzga, adds=Siltakuja 2 D 8, phone=1873506794]], Room [roomNo=3, person=Person [firstName=Vpasqcrf, lastName=Iufzmnucbcg, adds=Siltakuja 2 D 8, phone=4945952813]]]], 
+[apartmentNo=9, apartmentAdds=Siltakuja 2 D 9, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Ycydjzbaqg, lastName=Xaunfylgyxcm, adds=Siltakuja 2 D 9, phone=6188505734]], Room [roomNo=2, person=Person [firstName=Hayurklbo, lastName=Aytoqcxxc, adds=Siltakuja 2 D 9, phone=7842389290]], Room [roomNo=3, person=Person [firstName=Khrxbfqnofw, lastName=Gvjnjla, adds=Siltakuja 2 D 9, phone=5447115147]]]], 
+[apartmentNo=10, apartmentAdds=Siltakuja 2 D 10, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Ihlns, lastName=Klekwcvux, adds=Siltakuja 2 D 10, phone=6750142827]], Room [roomNo=2, person=Person [firstName=Davfqjrdcvch, lastName=Zebdn, adds=Siltakuja 2 D 10, phone=8318954866]]]], 
+[apartmentNo=11, apartmentAdds=Siltakuja 2 D 11, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Dimybk, lastName=Kryatiwrv, adds=Siltakuja 2 D 11, phone=2016895846]], Room [roomNo=2, person=Person [firstName=Vgeykw, lastName=Abilwwh, adds=Siltakuja 2 D 11, phone=4522271420]], Room [roomNo=3, person=Person [firstName=Yabziohyjjnt, lastName=Yxofpcgjjg, adds=Siltakuja 2 D 11, phone=3519366547]]]], 
+[apartmentNo=12, apartmentAdds=Siltakuja 2 D 12, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Wldcsfarzgud, lastName=Jofvlsdmgmj, adds=Siltakuja 2 D 12, phone=2068694020]]]], 
+[apartmentNo=13, apartmentAdds=Siltakuja 2 D 13, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Dysha, lastName=Ubjjznuilpih, adds=Siltakuja 2 D 13, phone=8846978976]], Room [roomNo=2, person=Person [firstName=Fodtfsiaee, lastName=Gujwpzuphia, adds=Siltakuja 2 D 13, phone=8516002755]], Room [roomNo=3, person=Person [firstName=Pdnosm, lastName=Fsjrsluqw, adds=Siltakuja 2 D 13, phone=3938442324]]]], 
+[apartmentNo=14, apartmentAdds=Siltakuja 2 D 14, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Heakiwyeyhat, lastName=Zovitfy, adds=Siltakuja 2 D 14, phone=9067471557]], Room [roomNo=2, person=Person [firstName=Otxdokq, lastName=Latacrrmgvp, adds=Siltakuja 2 D 14, phone=9429470405]], Room [roomNo=3, person=Person [firstName=Qqmrmzgi, lastName=Cssvrl, adds=Siltakuja 2 D 14, phone=9201927848]]]], 
+[apartmentNo=15, apartmentAdds=Siltakuja 2 D 15, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Pmsiisftddja, lastName=Wgtaslujetv, adds=Siltakuja 2 D 15, phone=6453546907]], Room [roomNo=2, person=Person [firstName=Gxrsy, lastName=Rbbbavtzgdt, adds=Siltakuja 2 D 15, phone=3517636796]]]], 
+[apartmentNo=16, apartmentAdds=Siltakuja 2 D 16, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Tihvgx, lastName=Rpudfahozmg, adds=Siltakuja 2 D 16, phone=5882614425]]]], 
+[apartmentNo=17, apartmentAdds=Siltakuja 2 D 17, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Vkrzwfrmxrgo, lastName=Bdcyp, adds=Siltakuja 2 D 17, phone=5313946787]], Room [roomNo=2, person=Person [firstName=Inhqcwwsvmh, lastName=Dwcpfexfvper, adds=Siltakuja 2 D 17, phone=4790860162]], Room [roomNo=3, person=Person [firstName=Qdpmfolddrc, lastName=Wkleg, adds=Siltakuja 2 D 17, phone=9571409861]]]], 
+[apartmentNo=18, apartmentAdds=Siltakuja 2 D 18, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Tlhnumljuwd, lastName=Ubmimq, adds=Siltakuja 2 D 18, phone=9453068804]], Room [roomNo=2, person=Person [firstName=Cvosmuvhfqv, lastName=Mcoihop, adds=Siltakuja 2 D 18, phone=2893567921]]]], 
+[apartmentNo=19, apartmentAdds=Siltakuja 2 D 19, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Nrjruicu, lastName=Akyfii, adds=Siltakuja 2 D 19, phone=6270584485]], Room [roomNo=2, person=Person [firstName=Pfslukrrm, lastName=Bugud, adds=Siltakuja 2 D 19, phone=8377094933]], Room [roomNo=3, person=Person [firstName=Afguxqbhpfa, lastName=Igorzmwp, adds=Siltakuja 2 D 19, phone=9364707324]]]]]]
+, 
+[block=E, totalApartment=43
+ apartments=[
+[apartmentNo=1, apartmentAdds=Siltakuja 2 E 1, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Xtavbikq, lastName=Xzzgeqbkjo, adds=Siltakuja 2 E 1, phone=1532514169]], Room [roomNo=2, person=Person [firstName=Zfnmsomqapv, lastName=Izdkfcbgr, adds=Siltakuja 2 E 1, phone=9041853778]]]], 
+[apartmentNo=2, apartmentAdds=Siltakuja 2 E 2, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Hiroigdsonpl, lastName=Fshixbrgq, adds=Siltakuja 2 E 2, phone=7301840235]], Room [roomNo=2, person=Person [firstName=Dgwnkrlq, lastName=Prmdizqm, adds=Siltakuja 2 E 2, phone=7160226282]]]], 
+[apartmentNo=3, apartmentAdds=Siltakuja 2 E 3, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Ebplurpsqhl, lastName=Igftrksvfc, adds=Siltakuja 2 E 3, phone=8944479289]], Room [roomNo=2, person=Person [firstName=Wqbqundfvok, lastName=Iqgvkvnh, adds=Siltakuja 2 E 3, phone=2497843315]], Room [roomNo=3, person=Person [firstName=Eclmfyboh, lastName=Feprcoyabnc, adds=Siltakuja 2 E 3, phone=9386393325]]]], 
+[apartmentNo=4, apartmentAdds=Siltakuja 2 E 4, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Zkcsklnxh, lastName=Dkprkehwulns, adds=Siltakuja 2 E 4, phone=2310979964]], Room [roomNo=2, person=Person [firstName=Emwbjhcja, lastName=Jxrbsqaaw, adds=Siltakuja 2 E 4, phone=1363375608]], Room [roomNo=3, person=Person [firstName=Eknzgu, lastName=Kiqjmnou, adds=Siltakuja 2 E 4, phone=9295427079]]]], 
+[apartmentNo=5, apartmentAdds=Siltakuja 2 E 5, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Mogkvu, lastName=Advmyxc, adds=Siltakuja 2 E 5, phone=5916403355]], Room [roomNo=2, person=Person [firstName=Ezlwelgvwaw, lastName=Awkbdelvpdg, adds=Siltakuja 2 E 5, phone=5426129141]]]], 
+[apartmentNo=6, apartmentAdds=Siltakuja 2 E 6, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Nvdcvvnxgsho, lastName=Oulqhnphj, adds=Siltakuja 2 E 6, phone=5110146801]], Room [roomNo=2, person=Person [firstName=Cpxiknkxds, lastName=Pssjxmdxc, adds=Siltakuja 2 E 6, phone=4600014762]], Room [roomNo=3, person=Person [firstName=Hlsxyox, lastName=Pzirhugc, adds=Siltakuja 2 E 6, phone=5105175040]]]], 
+[apartmentNo=7, apartmentAdds=Siltakuja 2 E 7, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Otvfxsc, lastName=Jgjui, adds=Siltakuja 2 E 7, phone=6479099786]], Room [roomNo=2, person=Person [firstName=Mezwpmzeork, lastName=Ucypn, adds=Siltakuja 2 E 7, phone=8296195371]], Room [roomNo=3, person=Person [firstName=Rxbpv, lastName=Kwbnwz, adds=Siltakuja 2 E 7, phone=2403749337]]]], 
+[apartmentNo=8, apartmentAdds=Siltakuja 2 E 8, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Kmamhcnvxsz, lastName=Hoyxaekur, adds=Siltakuja 2 E 8, phone=9274378523]], Room [roomNo=2, person=Person [firstName=Jtxngu, lastName=Zukifk, adds=Siltakuja 2 E 8, phone=3087520134]]]], 
+[apartmentNo=9, apartmentAdds=Siltakuja 2 E 9, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Tigpgvnvwvk, lastName=Xdtord, adds=Siltakuja 2 E 9, phone=3038695425]], Room [roomNo=2, person=Person [firstName=Tgnzxqyoh, lastName=Tvogi, adds=Siltakuja 2 E 9, phone=7024024391]], Room [roomNo=3, person=Person [firstName=Gajgrr, lastName=Jsjamshnrut, adds=Siltakuja 2 E 9, phone=4592073501]]]], 
+[apartmentNo=10, apartmentAdds=Siltakuja 2 E 10, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Ohqxuyshidp, lastName=Naonderj, adds=Siltakuja 2 E 10, phone=5032207521]]]], 
+[apartmentNo=11, apartmentAdds=Siltakuja 2 E 11, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Cmlhljm, lastName=Dyqulqof, adds=Siltakuja 2 E 11, phone=1751545136]], Room [roomNo=2, person=Person [firstName=Ebjmo, lastName=Ngdtnkup, adds=Siltakuja 2 E 11, phone=5179327808]]]], 
+[apartmentNo=12, apartmentAdds=Siltakuja 2 E 12, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Fyualnyjvwmi, lastName=Zvxfnbnnn, adds=Siltakuja 2 E 12, phone=8381501840]], Room [roomNo=2, person=Person [firstName=Mytxx, lastName=Uyrvuzrpjm, adds=Siltakuja 2 E 12, phone=5881451309]]]], 
+[apartmentNo=13, apartmentAdds=Siltakuja 2 E 13, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Zbpwmy, lastName=Wmydlotoe, adds=Siltakuja 2 E 13, phone=4045436219]]]], 
+[apartmentNo=14, apartmentAdds=Siltakuja 2 E 14, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Oodnshjwkspp, lastName=Pskrhapcun, adds=Siltakuja 2 E 14, phone=1360700642]]]], 
+[apartmentNo=15, apartmentAdds=Siltakuja 2 E 15, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Reiqck, lastName=Srexpmrtcygp, adds=Siltakuja 2 E 15, phone=2249464483]]]], 
+[apartmentNo=16, apartmentAdds=Siltakuja 2 E 16, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Pkrrvofzd, lastName=Dmsblhkeiu, adds=Siltakuja 2 E 16, phone=7798745395]]]], 
+[apartmentNo=17, apartmentAdds=Siltakuja 2 E 17, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Joubsy, lastName=Cmzftvpxpy, adds=Siltakuja 2 E 17, phone=1521493624]], Room [roomNo=2, person=Person [firstName=Nlhpemoltcoj, lastName=Xxkebqp, adds=Siltakuja 2 E 17, phone=5569646333]]]], 
+[apartmentNo=18, apartmentAdds=Siltakuja 2 E 18, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Nwfrspola, lastName=Uspato, adds=Siltakuja 2 E 18, phone=1799688120]]]], 
+[apartmentNo=19, apartmentAdds=Siltakuja 2 E 19, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Cimqrsoiicg, lastName=Tncxdwr, adds=Siltakuja 2 E 19, phone=4355288704]]]], 
+[apartmentNo=20, apartmentAdds=Siltakuja 2 E 20, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Woouqkmc, lastName=Tprxzhjrgsig, adds=Siltakuja 2 E 20, phone=7275167421]]]], 
+[apartmentNo=21, apartmentAdds=Siltakuja 2 E 21, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Bmsqvsgw, lastName=Yvkgc, adds=Siltakuja 2 E 21, phone=2877108159]]]], 
+[apartmentNo=22, apartmentAdds=Siltakuja 2 E 22, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Qzjqrisws, lastName=Akmjpxugtwd, adds=Siltakuja 2 E 22, phone=9494448612]], Room [roomNo=2, person=Person [firstName=Qikkaxvhfw, lastName=Baqpxtj, adds=Siltakuja 2 E 22, phone=7442990150]]]], 
+[apartmentNo=23, apartmentAdds=Siltakuja 2 E 23, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Jsysctln, lastName=Nezvadvx, adds=Siltakuja 2 E 23, phone=1240533143]], Room [roomNo=2, person=Person [firstName=Hkwtci, lastName=Mkatg, adds=Siltakuja 2 E 23, phone=7673173124]], Room [roomNo=3, person=Person [firstName=Rvlglkkxsmbk, lastName=Vkfdhjgrggta, adds=Siltakuja 2 E 23, phone=2306814276]]]], 
+[apartmentNo=24, apartmentAdds=Siltakuja 2 E 24, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Mnazkpwpj, lastName=Wmgfecn, adds=Siltakuja 2 E 24, phone=1189374116]], Room [roomNo=2, person=Person [firstName=Squxwt, lastName=Qrvyascjccrm, adds=Siltakuja 2 E 24, phone=5599887439]], Room [roomNo=3, person=Person [firstName=Vcpkfr, lastName=Pjrgifymk, adds=Siltakuja 2 E 24, phone=7923455860]]]], 
+[apartmentNo=25, apartmentAdds=Siltakuja 2 E 25, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Ktuzfygskj, lastName=Enaowivcncz, adds=Siltakuja 2 E 25, phone=7166223812]]]], 
+[apartmentNo=26, apartmentAdds=Siltakuja 2 E 26, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Agdmstdnil, lastName=Lylgqtdz, adds=Siltakuja 2 E 26, phone=9112697412]], Room [roomNo=2, person=Person [firstName=Wdnsb, lastName=Hmaui, adds=Siltakuja 2 E 26, phone=4359494805]], Room [roomNo=3, person=Person [firstName=Ytggfbej, lastName=Qdthqm, adds=Siltakuja 2 E 26, phone=7225643213]]]], 
+[apartmentNo=27, apartmentAdds=Siltakuja 2 E 27, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Hfdak, lastName=Kisbiedpsmuj, adds=Siltakuja 2 E 27, phone=2841719960]]]], 
+[apartmentNo=28, apartmentAdds=Siltakuja 2 E 28, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Qcbsodld, lastName=Zfmefqdlmdt, adds=Siltakuja 2 E 28, phone=1623755548]], Room [roomNo=2, person=Person [firstName=Koafpwebbk, lastName=Esjivodt, adds=Siltakuja 2 E 28, phone=5849577901]], Room [roomNo=3, person=Person [firstName=Kpefxbmb, lastName=Jdtezihiqjb, adds=Siltakuja 2 E 28, phone=7968482540]]]], 
+[apartmentNo=29, apartmentAdds=Siltakuja 2 E 29, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Nudbnga, lastName=Pewsdv, adds=Siltakuja 2 E 29, phone=8830003426]]]], 
+[apartmentNo=30, apartmentAdds=Siltakuja 2 E 30, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Gguajmr, lastName=Azcboizlu, adds=Siltakuja 2 E 30, phone=3380266109]], Room [roomNo=2, person=Person [firstName=Ongoqjejvrb, lastName=Wonnsh, adds=Siltakuja 2 E 30, phone=2345111209]], Room [roomNo=3, person=Person [firstName=Myswwyxh, lastName=Thdjzksk, adds=Siltakuja 2 E 30, phone=6435524471]]]], 
+[apartmentNo=31, apartmentAdds=Siltakuja 2 E 31, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Ymhhgztfyc, lastName=Evvekiygpelk, adds=Siltakuja 2 E 31, phone=3019582332]], Room [roomNo=2, person=Person [firstName=Bycpptnq, lastName=Arpzxuff, adds=Siltakuja 2 E 31, phone=8930385309]], Room [roomNo=3, person=Person [firstName=Rlinxh, lastName=Dvkzz, adds=Siltakuja 2 E 31, phone=4223710938]]]], 
+[apartmentNo=32, apartmentAdds=Siltakuja 2 E 32, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Haylpdnpi, lastName=Fqjgako, adds=Siltakuja 2 E 32, phone=8267228278]]]], 
+[apartmentNo=33, apartmentAdds=Siltakuja 2 E 33, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Kyjwqexr, lastName=Bkscaednk, adds=Siltakuja 2 E 33, phone=4387635883]]]], 
+[apartmentNo=34, apartmentAdds=Siltakuja 2 E 34, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Lplac, lastName=Hikitj, adds=Siltakuja 2 E 34, phone=6543824043]], Room [roomNo=2, person=Person [firstName=Mhuntrymyds, lastName=Kjgiqgmpymqr, adds=Siltakuja 2 E 34, phone=7077884321]], Room [roomNo=3, person=Person [firstName=Qnlyacr, lastName=Ayvpfai, adds=Siltakuja 2 E 34, phone=8297571266]]]], 
+[apartmentNo=35, apartmentAdds=Siltakuja 2 E 35, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Idsjyxddw, lastName=Igjqqgpsw, adds=Siltakuja 2 E 35, phone=1752819046]]]], 
+[apartmentNo=36, apartmentAdds=Siltakuja 2 E 36, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Qstpyogxxysb, lastName=Eyiwtgocxdqh, adds=Siltakuja 2 E 36, phone=6122196889]]]], 
+[apartmentNo=37, apartmentAdds=Siltakuja 2 E 37, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Jlyxvsztm, lastName=Dabsaztghga, adds=Siltakuja 2 E 37, phone=2981138252]]]], 
+[apartmentNo=38, apartmentAdds=Siltakuja 2 E 38, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Gafwarnkwt, lastName=Qmtbarm, adds=Siltakuja 2 E 38, phone=1415097183]], Room [roomNo=2, person=Person [firstName=Zxddnyzhthbf, lastName=Rotbzlykoauq, adds=Siltakuja 2 E 38, phone=5655081452]]]], 
+[apartmentNo=39, apartmentAdds=Siltakuja 2 E 39, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Rxqrbyoora, lastName=Ysbpjjut, adds=Siltakuja 2 E 39, phone=6604647674]], Room [roomNo=2, person=Person [firstName=Qdnelxbwlt, lastName=Cbwddfx, adds=Siltakuja 2 E 39, phone=8670909352]], Room [roomNo=3, person=Person [firstName=Quauvpcrnhuw, lastName=Zppjskw, adds=Siltakuja 2 E 39, phone=4763372843]]]], 
+[apartmentNo=40, apartmentAdds=Siltakuja 2 E 40, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Ladgvtokfeuk, lastName=Wjxyslruvdfu, adds=Siltakuja 2 E 40, phone=7762678822]], Room [roomNo=2, person=Person [firstName=Himmr, lastName=Abgpamowiag, adds=Siltakuja 2 E 40, phone=6340466108]]]], 
+[apartmentNo=41, apartmentAdds=Siltakuja 2 E 41, totalRoom=1
+ room [Room [roomNo=1, person=Person [firstName=Ujdqpvruxpml, lastName=Vxhukjykhlrw, adds=Siltakuja 2 E 41, phone=3756018080]]]], 
+[apartmentNo=42, apartmentAdds=Siltakuja 2 E 42, totalRoom=2
+ room [Room [roomNo=1, person=Person [firstName=Oxcyaloyyise, lastName=Aaahbxzrqxun, adds=Siltakuja 2 E 42, phone=1292117825]], Room [roomNo=2, person=Person [firstName=Zkwaqncjvur, lastName=Kwqwiaqjsviq, adds=Siltakuja 2 E 42, phone=3816904969]]]], 
+[apartmentNo=43, apartmentAdds=Siltakuja 2 E 43, totalRoom=3
+ room [Room [roomNo=1, person=Person [firstName=Wythppfzn, lastName=Xnaskcgcffk, adds=Siltakuja 2 E 43, phone=6487315420]], Room [roomNo=2, person=Person [firstName=Trtuvtzts, lastName=Likox, adds=Siltakuja 2 E 43, phone=2182317144]], Room [roomNo=3, person=Person [firstName=Sktqxawhs, lastName=Xddtbefw, adds=Siltakuja 2 E 43, phone=2397802736]]]]]]
+]]

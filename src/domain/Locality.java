@@ -1,8 +1,9 @@
 package domain;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class Locality {
+public class Locality implements Serializable{
 
 	private String address;
 	private int id;
@@ -41,9 +42,10 @@ public class Locality {
 	
 	@Override
 	public String toString() {
-		return "Locality [address=" + address + ", id=" + id + ", buildings=" + buildings + "]";
+		return "Locality [address=" + address + ", id=" + id + "\n" + buildings + "]";
 	}
 	
+
 	
 	
 }
