@@ -42,7 +42,7 @@ public class Locality implements Serializable{
 	
 	@Override
 	public String toString() {
-		return "Locality [address=" + address + ", id=" + id + "\n" + buildings + "]";
+		return "Locality [address=" + address + ", id=" + id + "\nbuildings=" + buildings + "]";
 	}
 	
 

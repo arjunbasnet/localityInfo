@@ -53,7 +53,7 @@ public class Apartment implements Serializable{
 	@Override
 	public String toString() {
 		return "\n[apartmentNo=" + apartmentNo + ", apartmentAdds=" + apartmentAdds + ", totalRoom=" + totalRoom
-				+ "\n room "+rooms+"]";
+				+ "\nrooms="+rooms+"]";
 	}
 
 

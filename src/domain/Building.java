@@ -42,7 +42,7 @@ public class Building implements Serializable{
 
 	@Override
 	public String toString() {
-		return "\n[block=" + block + ", totalApartment=" + totalApartment + "\n apartments="+apartments+"]\n";
+		return "\n[block=" + block + ", totalApartment=" + totalApartment + "\napartments="+apartments+"]\n";
 	}
 
 

@@ -31,10 +31,14 @@ public class Starter {
 		String command = scanner.nextLine();
 		if("init".equalsIgnoreCase(command)){
 			new Starter().init();
+			System.out.println("Enter SearchTerm: ");
+			String searchTxt = scanner.nextLine();
+			searchInfo(searchTxt);
 		}
 		else{ 
 			System.out.println("Please Enter Correct Command!!!\n 1. Enter 'init' for intalization.\n2.Enter 'search' for searching infromation.");
 		}
+		scanner.close();
 		
 	}
 	public static void printInfo(){
@@ -105,7 +109,39 @@ public class Starter {
 			buildings.add(building);
 		}
 		locality.setBuildings(buildings);
-		fileService.saveData(locality);
-		//System.out.print(locality.toString());
+		fileService.saveWithCustomFormat(locality);
+		System.out.println("Data succesffuly generated and saved with filename localityData.txt\n"
+				+ "To search for person living in specific room type e.g. D 1 2\n");
+	}
+	
+	public  void searchInfo(String searchTxt){
+		Locality locality=fileService.getData();
+		
+		char block=searchTxt.charAt(0);
+		int apartmentNo=Integer.parseInt(searchTxt.split(" ")[1]);
+		int roomNo=Integer.parseInt(searchTxt.split(" ")[2]);
+		
+		for(Building building: locality.getBuildings()){
+			if(block==building.getBlock()){
+				for(Apartment apartment: building.getApartments()){
+					if(apartmentNo==apartment.getApartmentNo()){
+						for(Room room:apartment.getRooms()){
+							if(roomNo==room.getRoomNo()){
+								System.out.println(room.toString());
+							}
+							else{
+								System.out.println("Data Not found in room!!!");
+							}
+						}
+					}
+					else{
+						System.out.println("Data Not found in apartment!!!");
+					}
+				}
+			}
+			else{
+				System.out.println("Data Not found in building!!!");
+			}
+		}
 	}
 }
