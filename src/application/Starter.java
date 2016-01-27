@@ -17,36 +17,84 @@ import domain.Building;
 import domain.Locality;
 import domain.Person;
 import domain.Room;
+import service.DataOperation;
 import service.FileOperation;
 
 public class Starter {
 	
-	private FileOperation fileService= new FileOperation();
-
+	private static FileOperation fileService= new FileOperation();
+	private static DataOperation dataService=new DataOperation();
+	
 	public static void main(String[] args) throws IOException {
 		
-		printInfo();
-		System.out.println("Enter Command: ");
-		Scanner scanner = new Scanner(System.in);
-		String command = scanner.nextLine();
-		if("init".equalsIgnoreCase(command)){
-			new Starter().init();
-			System.out.println("Enter SearchTerm: ");
-			String searchTxt = scanner.nextLine();
-			searchInfo(searchTxt);
-		}
-		else{ 
-			System.out.println("Please Enter Correct Command!!!\n 1. Enter 'init' for intalization.\n2.Enter 'search' for searching infromation.");
-		}
-		scanner.close();
+		
+		mainMenu();
 		
 	}
-	public static void printInfo(){
+	
+	public static void appInfo(){
 		System.out.println("This program generates locality buildings and tenant info with random data \nYou can also search information based on tenant name, phone number."
 				+ "\nFirst type 'init' command to initalize the program, this will populate random data");
 	}
 	
+	public static void dataOperationInfo(){
+		System.out.println("Data inited already exists on the file localityData.txt. If you want reintiate then please choose '0'.\n"
+				+ "For data operation choose menu number from following list:\n1.Get Overview information of locality."
+				+ "\n2.Search tenant with full Name.\n3.Search tenant with first or last Name\n4."
+				+ "Search tenant with phone number.\n5.Get building overview information.");
+	}
+	
+	public static void mainMenu() throws IOException{
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		if(fileService.checkFile()){
+			dataOperationInfo();
+			System.out.println("Choose Menu: ");
+			int menuNo =scanner.nextInt();
+			scanner.nextLine();
+			switch(menuNo){
+			case 1: System.out.println("wait");
+					break;
+			case 2:System.out.println("Enter tenant full Name:");
+					String fullName=scanner.nextLine();
+					
+					dataService.searchTenantByName(fullName);
+					break;
+			case 3:System.out.println("wait");
+					break;
+			case 4:System.out.println("wait");
+					break;
+			case 5:System.out.println("wait");
+					break;
+			}
+			scanner.close();
+		}
+		else{
+			appInfo();
+			new Starter().init();
+		}
+	}
+	
 	public void init() throws IOException {
+		boolean commandCorrect=false;
+		Scanner scanner = new Scanner(System.in);
+		
+		while(commandCorrect!=true){
+			System.out.println("Enter Command: ");
+			String command = scanner.nextLine();
+			if("init".equalsIgnoreCase(command)){
+				commandCorrect=true;
+			}
+			else if("back".equalsIgnoreCase(command)){
+				mainMenu();
+			}
+			else{ 
+				System.out.println("Please Enter Correct Command!!!\n 1. Enter 'init' for intalization.\nEnter");
+			}
+		}
+		scanner.close();
+		
 		String localityName="Siltakuja 2";
 		int totalBuildings=5;
 		char[] alphabets="ABCDEFGHIJKLMNOPQRSTUVWXYZ".toCharArray(); //for buildings block name
@@ -110,38 +158,6 @@ public class Starter {
 		}
 		locality.setBuildings(buildings);
 		fileService.saveWithCustomFormat(locality);
-		System.out.println("Data succesffuly generated and saved with filename localityData.txt\n"
-				+ "To search for person living in specific room type e.g. D 1 2\n");
 	}
 	
-	public  void searchInfo(String searchTxt){
-		Locality locality=fileService.getData();
-		
-		char block=searchTxt.charAt(0);
-		int apartmentNo=Integer.parseInt(searchTxt.split(" ")[1]);
-		int roomNo=Integer.parseInt(searchTxt.split(" ")[2]);
-		
-		for(Building building: locality.getBuildings()){
-			if(block==building.getBlock()){
-				for(Apartment apartment: building.getApartments()){
-					if(apartmentNo==apartment.getApartmentNo()){
-						for(Room room:apartment.getRooms()){
-							if(roomNo==room.getRoomNo()){
-								System.out.println(room.toString());
-							}
-							else{
-								System.out.println("Data Not found in room!!!");
-							}
-						}
-					}
-					else{
-						System.out.println("Data Not found in apartment!!!");
-					}
-				}
-			}
-			else{
-				System.out.println("Data Not found in building!!!");
-			}
-		}
-	}
 }

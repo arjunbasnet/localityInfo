@@ -67,6 +67,7 @@ public class FileOperation {
 			
 			bw.flush();
 			bw.close();
+			System.out.println("Data succesffuly generated and saved with filename localityData.txt\n");
 		}
 		catch(IOException e){
 			e.printStackTrace();
@@ -155,5 +156,18 @@ public class FileOperation {
 			}
 		}
 		return locality;
+	}
+	
+	public boolean checkFile(){
+		
+		File file=new File("localityData.txt");
+		
+		if(file.exists()&& file.isFile()){
+			return true;
+		}
+		else{
+			return false;
+		}
+		
 	}
 }
