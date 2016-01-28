@@ -54,18 +54,24 @@ public class Starter {
 			int menuNo =scanner.nextInt();
 			scanner.nextLine();
 			switch(menuNo){
-			case 1: System.out.println("wait");
+			case 1: dataService.localityOverview();;
 					break;
 			case 2:System.out.println("Enter tenant full Name:");
 					String fullName=scanner.nextLine();
 					
 					dataService.searchTenantByName(fullName);
 					break;
-			case 3:System.out.println("wait");
+			case 3:System.out.println("Enter first or last name:");
+					String name=scanner.nextLine();
+					dataService.searchTenantByLnameFname(name);
 					break;
-			case 4:System.out.println("wait");
+			case 4:System.out.println("Enter phone number:");
+					long phone=scanner.nextLong();
+					dataService.searchTenantByPhone(phone);
 					break;
-			case 5:System.out.println("wait");
+			case 5:System.out.println("Enter block Letter: ");
+					char block=(scanner.nextLine()).charAt(0);
+					dataService.buildingOverview(block);
 					break;
 			}
 			scanner.close();
