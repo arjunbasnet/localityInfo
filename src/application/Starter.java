@@ -55,12 +55,14 @@ public class Starter {
 			int menuNo =scanner.nextInt();
 			scanner.nextLine();
 			switch(menuNo){
+			case 0:new Starter().init();
 			case 1: dataService.localityOverview();;
 					break;
 			case 2:System.out.println("Enter tenant full Name:");
 					String fullName=scanner.nextLine();
 					
-					dataService.searchTenantByName(fullName);
+					Person searchedPerson=dataService.searchTenantByName(fullName);
+					System.out.println(searchedPerson.toString());
 					break;
 			case 3:System.out.println("Enter first or last name:");
 					String name=scanner.nextLine();
@@ -124,7 +126,7 @@ public class Starter {
 				mainMenu();
 			}
 			else{ 
-				System.out.println("Please Enter Correct Command!!!\n 1. Enter 'init' for intalization.\nEnter");
+				System.out.println("Please Enter Correct Command!!!\nEnter 'init' for intalization.");
 			}
 		}
 		scanner.close();
