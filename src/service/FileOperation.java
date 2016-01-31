@@ -57,8 +57,15 @@ public class FileOperation {
 					
 					for(Room room: apartment.getRooms()){
 						Person person=room.getPerson();
-						String roomInfo=""+room.getRoomNo()+VAL_SEPARATOR+person.getFirstName()+VAL_SEPARATOR+""
-								+ person.getLastName()+VAL_SEPARATOR+person.getAdds()+VAL_SEPARATOR+person.getPhone()+"";
+						String roomInfo=""+room.getRoomNo()+VAL_SEPARATOR;
+						
+						if(person!=null){
+							roomInfo+=person.getFirstName()+VAL_SEPARATOR+""
+									+ person.getLastName()+VAL_SEPARATOR+person.getAdds()+VAL_SEPARATOR+person.getPhone()+"";
+						}
+						else{
+							roomInfo+="EMPTY";
+						}
 						bw.write(roomInfo);
 						bw.newLine();
 					}
@@ -67,7 +74,7 @@ public class FileOperation {
 			
 			bw.flush();
 			bw.close();
-			System.out.println("Data succesffuly generated and saved with filename localityData.txt\n");
+			System.out.println("Data succesffuly saved with filename localityData.txt\n");
 		}
 		catch(IOException e){
 			e.printStackTrace();
@@ -122,13 +129,19 @@ public class FileOperation {
 						
 						int roomNo=Integer.parseInt(roomInfo.split(",")[0]);
 						String firstName=roomInfo.split(",")[1];
-						String lastName=roomInfo.split(",")[2];
-						String adds=roomInfo.split(",")[3];
-						long phone=Long.parseLong(roomInfo.split(",")[4]);
-						person.setFirstName(firstName);
-						person.setLastName(lastName);
-						person.setAdds(adds);
-						person.setPhone(phone);
+						
+						if(firstName.equalsIgnoreCase("EMPTY")){
+							person=null;
+						}
+						else{
+							String lastName=roomInfo.split(",")[2];
+							String adds=roomInfo.split(",")[3];
+							long phone=Long.parseLong(roomInfo.split(",")[4]);
+							person.setFirstName(firstName);
+							person.setLastName(lastName);
+							person.setAdds(adds);
+							person.setPhone(phone);
+						}
 						
 						room.setRoomNo(roomNo);
 						room.setPerson(person);
@@ -158,6 +171,71 @@ public class FileOperation {
 		return locality;
 	}
 	
+	public void updateTenantInfo(String oldTenantInfo,String newTenantInfo){
+		BufferedReader br=null;
+		BufferedWriter bw=null;
+		
+		try{
+			FileReader fr=new FileReader("localityData.txt");
+			br=new BufferedReader(fr);
+			String oldContents="",line="";
+			
+			while((line=br.readLine())!=null){
+				oldContents+=line+"\n";
+			}
+			
+			FileWriter fw=new FileWriter("localityData.txt");
+			bw=new BufferedWriter(fw);
+			
+
+			String newContents=oldContents.replaceAll(oldTenantInfo, newTenantInfo);
+			bw.write(newContents);
+			System.out.println("Tenant Information updated successfully");
+		}
+		catch(IOException e){
+			e.printStackTrace();
+		}finally {
+			try {
+				if (br != null)br.close();
+				if(bw!=null)bw.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	public void removeTenant(String tenantInfo,String removedTxt){
+		BufferedReader br=null;
+		BufferedWriter bw=null;
+		
+		try{
+			FileReader fr=new FileReader("localityData.txt");
+			br=new BufferedReader(fr);
+			String oldContents="",line="";
+			
+			while((line=br.readLine())!=null){
+				oldContents+=line+"\n";
+			}
+			
+			FileWriter fw=new FileWriter("localityData.txt");
+			bw=new BufferedWriter(fw);
+			
+
+			String newContents=oldContents.replaceAll(tenantInfo, removedTxt);
+			bw.write(newContents);
+			System.out.println("Tenant Removed successfully");
+		}
+		catch(IOException e){
+			e.printStackTrace();
+		}finally {
+			try {
+				if (br != null)br.close();
+				if(bw!=null)bw.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
 	public boolean checkFile(){
 		
 		File file=new File("localityData.txt");

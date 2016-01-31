@@ -41,7 +41,8 @@ public class Starter {
 		System.out.println("Data inited already exists on the file localityData.txt. If you want reintiate then please choose '0'.\n"
 				+ "For data operation choose menu number from following list:\n1.Get Overview information of locality."
 				+ "\n2.Search tenant with full Name.\n3.Search tenant with first or last Name\n4."
-				+ "Search tenant with phone number.\n5.Get building overview information.");
+				+ "Search tenant with phone number.\n5.Get building overview information."
+				+ "\n6.Edit tenant information.\n7.Remove tenant.\n8.Add new tenant to empty rooms.");
 	}
 	
 	public static void mainMenu() throws IOException{
@@ -73,6 +74,33 @@ public class Starter {
 					char block=(scanner.nextLine()).charAt(0);
 					dataService.buildingOverview(block);
 					break;
+			case 6:System.out.println("Enter tenant full Name:");
+					String tenantName=scanner.nextLine();
+					Person tenant=dataService.searchTenantByName(tenantName);
+					
+					if(tenant!=null){
+						System.out.println("Enter tenant new full Name:");
+						String newName=scanner.nextLine();
+						System.out.println("Enter tenant new phone:");
+						long newPhone=scanner.nextLong();
+						dataService.updateTenantInfo(tenantName, newName, newPhone);
+					}
+			case 7:System.out.println("Enter tenant full Name:");
+					String tenantFullName=scanner.nextLine();
+					Person person=dataService.searchTenantByName(tenantFullName);
+					if(person!=null){
+						dataService.removeTenant(person);
+					}
+			case 8:System.out.println("List of available rooms for tenants, please select one");
+					dataService.listEmptyRooms();
+					System.out.println("Enter your selection: ");
+					String adds=scanner.nextLine();
+					System.out.println("Enter tenant full name:");
+					String personName=scanner.nextLine();
+					System.out.println("Enter phone number");
+					long phoneNumber=scanner.nextLong();
+					dataService.addTenant(adds, personName, phoneNumber);
+				
 			}
 			scanner.close();
 		}

@@ -1,7 +1,7 @@
 Siltakuja 2,1
 A,20
 1,Siltakuja 2 A 1,1
-1,Whdvjevw,Jpykdjekpx,Siltakuja 2 A 1,4206785287
+1,Arjun,Basnet,Siltakuja 2 A 1,400277644
 2,Siltakuja 2 A 2,2
 1,Vomffpa,Tvjrp,Siltakuja 2 A 2,9356697362
 2,Nnwkmgf,Fnjvti,Siltakuja 2 A 2,1333033482
@@ -17,7 +17,7 @@ A,20
 1,Xejjgmlz,Scjlz,Siltakuja 2 A 5,9528686763
 2,Rgpabl,Docfbb,Siltakuja 2 A 5,4725848988
 6,Siltakuja 2 A 6,3
-1,Xmyqocqx,Xarvyilywjx,Siltakuja 2 A 6,5263746756
+1,EMPTY
 2,Rhmzwfabnx,Arqatxzph,Siltakuja 2 A 6,3716813435
 3,Ayicei,Zmyzid,Siltakuja 2 A 6,4193998511
 7,Siltakuja 2 A 7,2
